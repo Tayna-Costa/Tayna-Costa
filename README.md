@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Tayna-Costa/Tayna-Costa/output/snake.svg" alt="Snake animation" />
-
-###
